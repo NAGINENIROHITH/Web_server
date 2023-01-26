@@ -59,9 +59,11 @@ httpd.serve_forever()
 ```
 # OUTPUT:
 serveroutput:
-![serveroutput](https://user-images.githubusercontent.com/118344049/214937105-ffa5388d-8c39-4554-9eac-1e9ef831a11a.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/118344049/214944256-2fcc8366-bdc9-450c-aec3-3bdab32bdbab.png)
+
 clientoutput:
-![clientoutput](https://user-images.githubusercontent.com/118344049/214937249-91728d58-c799-4900-a008-dfc966a3bb82.png)
+![WhatsApp Image 2022-12-06 at 21 10 29](https://user-images.githubusercontent.com/118344049/214944170-25e8cf27-0493-418c-9f2e-63050e34c92e.jpg)
+
 
 # RESULT:
 
